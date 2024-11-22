@@ -1,16 +1,34 @@
-## Hi there 👋
+# **홍은지**
 
-<!--
-**yoej05/yoej05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ CAU **Art&Tech 24학번**
 
-Here are some ideas to get you started:
+✨ CAU AT 학생회 '**윤슬**' 방송국원
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ CAU AT Conference 2기 '**Re:Moment**' 팀원
+
+✨ CAU AT 공모전 동아리 '**시나브로**' 회장
+
+---
+
+
+🎬 Goal: 뮤직비디오 제작
+
+---
+
+✉ Communication: yoej05@naver.com  **<-Please send me a DM request for collaboration**
+- ---
+
+💻 **skill**
+
+![Maya](https://img.shields.io/badge/Maya-333333?style=flat&logo=autodesk&logoColor=F7B300)
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-333333?style=flat&logo=adobe-premierepro&logoColor=FBBC05)
+---
+
+📬 소셜 미디어 링크
+
+- [YouTube](https://www.youtube.com/@yoyoolvz1)
+- ---
+
+📊 GitHub 통계
+
+![yoej05's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoej05&show_icons=true&hide_title=true&count_private=true&theme=radical)
